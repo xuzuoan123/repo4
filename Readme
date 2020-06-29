@@ -1,0 +1,4 @@
+net start "VMware DHCP Service"
+net start "VMware NAT service"
+pause
+
