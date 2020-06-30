@@ -1,6 +1,7 @@
 
 
 添加一个新文件Hello.txt
+
 这是D:\heimajava\git\test_conflict\test2\repo4添加的内容:
 马上修改啊
 党和房间爱上风格
@@ -12,3 +13,12 @@ adsgjufipangckjas
 osapogfjsdfgahsdgh
 jdisapjgrfkdsmcfa
 jdfipoasjgfkxnsvzcsg
+这是D:\heimajava\git\test_conflict\test1\repo4的添加
+Add some content ...========
+sagfshgfshghdsgsh
+dsgfshrdtdhygtdrfh
+dfshtrewythafdb
+reashtejhgfdsn
+ewshythrgfdxhgbvx
+rewshtgshngsdhgfsd
+
