@@ -1,3 +1,11 @@
 
 
 添加一个新文件Hello.txt
+这是D:\heimajava\git\test_conflict\test1\repo4的添加
+Add some content ...========
+sagfshgfshghdsgsh
+dsgfshrdtdhygtdrfh
+dfshtrewythafdb
+reashtejhgfdsn
+ewshythrgfdxhgbvx
+rewshtgshngsdhgfsd
